@@ -1,0 +1,14 @@
+ Public class CarModel
+{
+public static void main(String args[])
+{
+Int car_tiers,lights;
+bool brake,accel,engine;
+ 
+public Car()
+{
+car_tiers=4;
+lights=4;
+brake=1,accel=0;
+]
+
