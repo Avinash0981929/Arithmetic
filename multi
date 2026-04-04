@@ -1,0 +1,10 @@
+class Multi
+{
+ public static void main(string args[])
+{
+ int a,b,c;
+ c= a*b;
+
+system.out.println("the product is:" c);
+}
+}
