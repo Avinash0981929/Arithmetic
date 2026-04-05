@@ -10,5 +10,6 @@ public Car()
 car_tiers=4;
 lights=4;
 brake=1,accel=0;
+engine==0;
 ]
 
